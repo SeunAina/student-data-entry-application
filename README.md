@@ -39,15 +39,6 @@ It is ideal for schools or institutions that require a simple, offline method to
 
 ---
 
-## 📷 Screenshots
-
-> 📸 Add screenshots of:
-> - The data entry form
-> - The master data sheet
-> - The printable application form
-
----
-
 ## 📂 How to Use
 
 1. Open the Excel file.
@@ -68,6 +59,6 @@ This spreadsheet is best suited for:
 
 ## 📬 Contact
 
-If you’d like a customized version of this tool or want help building something similar, feel free to [connect with me on Upwork](https://www.upwork.com/)!
+If you’d like a customized version of this tool or want help building something similar, feel free to contact me
 
 ---
